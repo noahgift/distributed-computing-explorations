@@ -22,6 +22,7 @@ Techniques used:
 
 * [concurrency-notebook-python](https://github.com/noahgift/distributed-computing-explorations/blob/main/Concurrency_Python.ipynb)
 * [nuclear-powered-command-line-tool](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py)
+* [serial](https://github.com/noahgift/distributed-computing-explorations/blob/main/serial-means.py) vs [distributed kmeans](https://github.com/noahgift/distributed-computing-explorations/blob/main/parallel-kmeans.py)
 
 ### GPU Pricing Amazon
 
