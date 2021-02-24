@@ -10,3 +10,6 @@ Some ideas around concurrency and distributed computing
 * [concurrency-python](https://github.com/noahgift/distributed-computing-explorations/blob/main/Concurrency_Python.ipynb)
 
 
+### References
+
+[Turbocharging Python with Command Line Tools Article](https://www.kite.com/blog/python/python-command-line-tools/)
