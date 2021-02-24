@@ -1,0 +1,6 @@
+numba
+pandas
+numpy
+sklearn
+click
+pylint
