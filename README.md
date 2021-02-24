@@ -1,6 +1,18 @@
 # distributed-computing-explorations
 Some ideas around concurrency and distributed computing
 
+![nuclear powered](https://user-images.githubusercontent.com/58792/47737559-6c658900-dc2e-11e8-85fc-56ad0c9bf2d6.jpg)
+
+Techniques used:
+
+* [GPU (Using CUDA)](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L136)
+* [JIT](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L159)
+* [Machine Learning (Kmeans Clustering)](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L170)
+* [True Multi-Threaded (no GIL) Parallelization](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L123)
+* [Colored output from Click](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L164)
+* [Timing decorators](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L29)
+* [GPU Mandelbrot (Jupyter Notebook)](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/notebooks/numba-cuda.ipynb)
+* [GPU Mandelbrot](https://colab.research.google.com/github/noahgift/edge-computer-vision/blob/master/computer_vision_lecture_1.ipynb#scrollTo=hfH-xwR_7WX0)
 
 ## Chapter on Distributed Computing
 
@@ -10,6 +22,7 @@ Some ideas around concurrency and distributed computing
 
 * [concurrency-notebook-python](https://github.com/noahgift/distributed-computing-explorations/blob/main/Concurrency_Python.ipynb)
 * [nuclear-powered-command-line-tool](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py)
+* [serial](https://github.com/noahgift/distributed-computing-explorations/blob/main/serial-means.py) vs [distributed kmeans](https://github.com/noahgift/distributed-computing-explorations/blob/main/parallel-kmeans.py)
 
 ### GPU Pricing Amazon
 
