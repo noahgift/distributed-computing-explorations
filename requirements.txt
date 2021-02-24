@@ -5,3 +5,7 @@ sklearn
 click
 pylint
 ipython
+async
+wikipedia
+aiohttp
+requests
