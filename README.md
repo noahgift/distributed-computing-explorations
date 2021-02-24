@@ -7,8 +7,9 @@ Some ideas around concurrency and distributed computing
 * [distributed-computing](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter04-distributed-computing/)
 
 ### Notebooks and Examples
-* [concurrency-python](https://github.com/noahgift/distributed-computing-explorations/blob/main/Concurrency_Python.ipynb)
 
+* [concurrency-notebook-python](https://github.com/noahgift/distributed-computing-explorations/blob/main/Concurrency_Python.ipynb)
+* [nuclear-powered-command-line-tool](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py)
 
 ### References
 
