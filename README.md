@@ -12,7 +12,7 @@ Techniques used:
 * [Colored output from Click](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L164)
 * [Timing decorators](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L29)
 * [GPU Mandelbrot (Jupyter Notebook)](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/notebooks/numba-cuda.ipynb)
-
+* [GPU Mandelbrot](https://colab.research.google.com/github/noahgift/edge-computer-vision/blob/master/computer_vision_lecture_1.ipynb#scrollTo=hfH-xwR_7WX0)
 
 ## Chapter on Distributed Computing
 
