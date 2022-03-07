@@ -1,8 +1,6 @@
 # distributed-computing-explorations
 Some ideas around concurrency and distributed computing
 
-![nuclear powered](https://user-images.githubusercontent.com/58792/47737559-6c658900-dc2e-11e8-85fc-56ad0c9bf2d6.jpg)
-
 Techniques used:
 
 * [GPU (Using CUDA)](https://github.com/noahgift/nuclear_powered_command_line_tools/blob/master/nuclearcli.py#L136)
